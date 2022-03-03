@@ -1,0 +1,633 @@
+<table border="1" cellpadding="0" cellspacing="0" style="width: 100%; font-family: Arial,Helvetica,sans-serif; font-size: 11pt; text-align: left;" width="0">
+	<tbody>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p><strong>Country</strong></p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p><strong>Length of lines in operation (km)</strong></p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p><strong>Lines under construction (km)</strong></p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p><strong>Approved but not started construction</strong></p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p><strong>Max speed (km/h)</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>China</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">26,869</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">10,738</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">1,268</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">350</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Spain</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">3,100</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">1,800</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">310</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Japan</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">3,041</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">402</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">194</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">320</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>France</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">3,220</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">125</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">320</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Germany</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">3,038</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">330</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Sweden</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">1,706</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">11</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">205</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>United Kingdom</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">1,377</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">230</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">320</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>South Korea</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">1,104</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">376</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">49</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">305</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Italy</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">999</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">116</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Turkey</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">802</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">1,208</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">1,127</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Russia</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">845</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">770</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">205</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Finland</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">609</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">220</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Uzbekistan</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">600</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">250</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Austria</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">352</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">208</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">250</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Taiwan-China</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">354</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Belgium</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">326</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Poland</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">224</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">484</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Netherlands</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">175</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Switzerland</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">144</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">15</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">250</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Luxembourg</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">142</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">320</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Norway</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">64</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">54</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">210</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>U.S.A.</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">54</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">192</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">1,710</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">240</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Saudi Arabia</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">453</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Denmark</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">56</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Thailand</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">615</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Sweden</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">11</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">205</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Russia</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">770</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">250</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Iran</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">1,351</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Indonesia</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">712</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">250</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>India</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">508</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">250</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Malaysia/Singapore</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">350</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">250</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Israel</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">85</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">250</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Portugal</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">550</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">250</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Czech Republic</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">660</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">250</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Greece</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">500</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">200</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">250</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 20%;" valign="top">
+			<p>Hungary-Romania</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">0</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">460</p>
+			</td>
+			<td style="width: 20%;" valign="top">
+			<p align="right">250</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
